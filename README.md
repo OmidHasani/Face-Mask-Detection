@@ -9,9 +9,9 @@ Furthermore, advanced data augmentation techniques were employed to enhance the 
 Upon completion, the mask detection system can provide real-time feedback, alerting individuals in cases of non-compliance. This feature can be integrated into existing surveillance systems or used as a standalone application on mobile devices. The project not only emphasizes technological advancement but also contributes to public health efforts by promoting mask-wearing behavior in social settings.
 
 In conclusion, this mask detection project utilizing YOLO represents a significant step forward in leveraging artificial intelligence for health and safety. Its real-time capabilities and high accuracy make it a valuable tool for organizations and communities aiming to ensure compliance with health regulations and protect public health.
-
+---
 Here is a Test output prediction of this project :
-
+	 
 1.  No wearing mask :
 ![Screenshot 2024-10-04 231648](https://github.com/user-attachments/assets/0c982c4d-9a0d-421e-99e1-f2e728ea6b67)
 
